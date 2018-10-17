@@ -1,1 +1,1 @@
-# This repository is to contain challlenges taken from Kaggle website
+# This repository is to contain challenges taken from Kaggle website
